@@ -18,7 +18,9 @@ Minimum SDK 24 (Android 7.0 Nougat).
   <img src="https://github.com/juanriqu/Real-Estate-App/blob/main/screenshots/Splash-Screen.png" width="24%"/>
   <img src="https://github.com/juanriqu/Real-Estate-App/blob/main/screenshots/List-Of-Houses.png" width="24%"/>
   <img src="https://github.com/juanriqu/Real-Estate-App/blob/main/screenshots/Detailed-House.png" width="24%"/>
-  <img src="https://github.com/juanriqu/Real-Estate-App/blob/main/screenshots/About.png" width="24%"/>
+  <img src="https://github.com/snehaawate/Real-Estate-App/blob/main/screenshots/About.png" width="24%"/>
+
+
 </p>
 
 ## Usage
